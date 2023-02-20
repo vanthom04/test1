@@ -64,6 +64,20 @@ let allMusic = [
     src: "./music/Mặt mộc.mp3",
     idMusic: "song9",
   },
+  {
+    name: "Xích Thêm Chút",
+    artist: " ",
+    img: "",
+    src: "./music/xích thêm chút.mp3",
+    idMusic: "song10",
+  },
+  {
+    name: "Yêu Rồi",
+    artist: " ",
+    img: "",
+    src: "./music/Yêu rồi.mp3",
+    idMusic: "song11",
+  },
 ];
 
 const wrapper = document.querySelector(".wrapper");
